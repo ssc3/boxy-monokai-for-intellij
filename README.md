@@ -8,10 +8,11 @@ Bringing our favorite color scheme boxy monokai to Intellij
 
 ## Installation
 
-- Download the file
+- Download the .icls file in this repo
 - Go to Preferences->Editor->Color Scheme
 - Click on the Gear icon and select `Import Scheme`
-- Choose the file downloaded in step 1
+- Choose the .icls file downloaded in step 1
+- Give the editor some time to refresh. Done!
 
 
 
